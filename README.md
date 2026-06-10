@@ -7,7 +7,7 @@ I'm a **Lead Mobile Engineer** passionate about building high-performance, scala
 - 💼 Open to **Senior/Lead Flutter** positions
 - 🌍 Experienced across **FinTech, EV/IoT, EdTech, and on-demand platforms**
 - 💬 Ask me about Flutter internals, BLoC, Clean Architecture, or gRPC/WebSocket integrations
-- 📫 Contact me: [Email](mailto:sharifsharipov.dev@gmail.com), [LinkedIn](https://www.linkedin.com/in/sharifsharipov), or [Telegram](https://t.me/shsharofovich)
+- 📫 Contact me: [Email](mailto:sharifsharipov.dev@gmail.com) or [Telegram](https://t.me/shsharofovich)
 
 ---
 
