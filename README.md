@@ -33,5 +33,5 @@ I'm a **Lead Mobile Engineer** passionate about building high-performance, scala
 
 ## 📊 GitHub Stats
 
-![Sharif's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharifsharipov&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharifsharipov&layout=compact&theme=github_dark&hide_border=true)
+![Sharif's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sharifsharipov&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharifsharipov&layout=compact&theme=github_dark&hide_border=true)
