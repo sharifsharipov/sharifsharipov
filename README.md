@@ -22,16 +22,23 @@ Production Flutter apps end to end, with native Kotlin and Swift when the platfo
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🏗 Architecture & Patterns
 
 Predictable state, clear layer boundaries, domain-driven modules, and test-first development that let features ship independently and safely.
 
 ![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=flutter&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C2C2C?style=for-the-badge)
 ![DDD](https://img.shields.io/badge/DDD-555555?style=for-the-badge)
 ![TDD](https://img.shields.io/badge/TDD-d63031?style=for-the-badge)
+
+### 🚀 Delivery & Tooling
+
+Automated pipelines from commit to store release, so every build is tested, reproducible, and ready to ship.
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
