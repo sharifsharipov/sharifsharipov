@@ -14,25 +14,29 @@
 
 ## 🛠 Tech Stack
 
-**Cross-platform & Native** — production Flutter apps end to end, with native Kotlin and Swift when the platform demands it.
+### 📱 Cross-platform & Native
+
+Production Flutter apps end to end, with native Kotlin and Swift when the platform demands it.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
-**Engineering Practices** — code that stays maintainable as the team and the product grow.
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-d63031?style=for-the-badge)
-
-## 🏗 Architecture & Patterns
+### 🏗 Architecture & Patterns
 
 Predictable state, clear layer boundaries, and domain-driven modules that let features ship independently.
 
 ![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C2C2C?style=for-the-badge)
 ![DDD](https://img.shields.io/badge/DDD-555555?style=for-the-badge)
+
+### ⚙️ Engineering Practices
+
+Code that stays maintainable as the team and the product grow.
+
+![TDD](https://img.shields.io/badge/TDD-d63031?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
