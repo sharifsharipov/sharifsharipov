@@ -38,7 +38,8 @@ Predictable state, clear layer boundaries, domain-driven modules, and test-first
 Automated pipelines from commit to store release, so every build is tested, reproducible, and ready to ship.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-6E49CB?style=for-the-badge)
 
 ---
 
